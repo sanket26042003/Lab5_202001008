@@ -17,3 +17,7 @@ Missing arguments
 Indentation error
 ![image](https://user-images.githubusercontent.com/74952781/225272628-8c5f3d51-6abb-4b02-9451-e78a1a934e18.png)
 ![image](https://user-images.githubusercontent.com/74952781/225272911-b1a64b3b-ae1e-4e7f-9838-02b497e9c73c.png)
+
+Unterminated string literal
+![image](https://user-images.githubusercontent.com/74952781/225274276-e451fba8-b2f0-47ff-a1f1-c38e881c1678.png)
+![image](https://user-images.githubusercontent.com/74952781/225274468-6ff54f26-6e10-4de1-ae0c-57182412b51e.png)
